@@ -2,6 +2,7 @@
     "name": "smetdenis/php-test-speed",
     "description": "Tool to compare different functions in PHP",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Denis Smetannikov",
