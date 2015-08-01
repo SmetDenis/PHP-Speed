@@ -1,4 +1,4 @@
-# PHP Benchmark
+# PHP Test Speed
 
 Tool to compare different functions in PHP
 
