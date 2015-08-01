@@ -1,8 +1,12 @@
 {
-    "name": "lavoiesl/php-benchmark",
+    "name": "smetdenis/php-test-speed",
     "description": "Tool to compare different functions in PHP",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Denis Smetannikov",
+            "email": "denis@jbzoo.com"
+        },        
         {
             "name": "Sébastien Lavoie",
             "email": "github@lavoie.sl"
